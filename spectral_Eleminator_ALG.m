@@ -1,6 +1,8 @@
 clear 
 close all
 
+%% new comments
+
 %% ER graph
 N=600;%no of Node
 p=0.03;%connection Probability
